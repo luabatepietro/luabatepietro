@@ -12,7 +12,7 @@ object **LUCAS** {
  val acknowledgements = "BACK-END, FRONT-END"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("CSS", "Python", , "HTML")
+ val languages = listOf("CSS", "Python", , "HTML", "Django")
 
 }
 ```
